@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22827907435",
+    "project_id": "vouch-payment",
+    "storage_bucket": "vouch-payment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22827907435:android:ca695d7e4224e41094342e",
+        "android_client_info": {
+          "package_name": "com.vouch.challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22827907435-aem410qgerh63ahfvlldrl5fh7vp39iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc53OcpV3FZUcNIkDROuUHLmwNKnCHloY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22827907435-aem410qgerh63ahfvlldrl5fh7vp39iu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

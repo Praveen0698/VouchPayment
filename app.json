@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "vouch",
+    "slug": "vouch",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      
+      "package": "com.vouch.payment"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
